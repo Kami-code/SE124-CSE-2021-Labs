@@ -19,3 +19,8 @@
 
 ​	No future plan to fix the bugs in the labs.
 
+
+
+## License
+
+​	The code skeleton is provided by SE124 teaching staff and implemented by me. Please contact both if you want.
